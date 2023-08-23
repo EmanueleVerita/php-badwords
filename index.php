@@ -22,7 +22,7 @@
             <div>
                 <label for="paragraph">
 
-                    Paragrafo
+                    ParagrafO
 
                 </label>
 
